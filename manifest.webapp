@@ -3,14 +3,9 @@
   "description": "My elevator pitch goes here",
   "launch_path": "/List.html",
   "icons": {
-    "16": "/logo16.png",
-    "32": "/logo32.png",
-    "48": "/logo48.png",
-    "60": "logo60.png",
-    "64": "/logo64.png",
-    "90": "/logo90.png",
-    "120": "/logo120.png",
-    "128": "/logo128.png"
+    "60": "/logo/logo60.png",
+    "64": "/logo/logo64.png",
+    "128": "/logo/logo128.png"
   },
   "developer": {
     "name": "Santosh Viswanatham",
